@@ -1,0 +1,254 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	border-right: 1px solid gray;
+}
+
+.nogutter {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.top_sec > ul > li {
+	list-style: none;
+	display: inline;
+}
+
+.top_sec {
+	text-align: right;
+	margin-right: 60px;
+}
+
+.top_sec > ul > li > a {
+	color: black;
+	text-decoration: none;
+}
+
+
+.border { margin-top: 10px;}
+.navbar-default {
+	background: rgb(255, 255, 255, 0.5);
+	background-image: none;
+	border-color: transparent;
+	color: white;
+
+}
+
+.navbar {
+	border-radius: 0px;
+	z-index: 1;
+	position: relative;
+	margin-bottom: -50px;
+
+}
+
+.navbar-nav {
+	margin-left: 60px;
+}
+
+.container-fluid > .navbar-header {
+	margin-right: 0px;
+	margin-left: 0px;
+}
+
+.navbar-default .navbar-nav > li > a {
+	color: black;
+	font-weight: bold;
+
+}
+
+.navbar-right {
+	margin-right: 35px;
+}
+
+.banner {
+	background-image: url("img/slide.jpg");
+	height: 250px;
+}
+
+.caption {
+	padding-top: 100px;
+	color: white;
+	text-align: center;
+}
+
+.first {
+	width: 100%;
+}
+
+.caption p img {
+	width: 100px;
+	height: 3px;
+	margin: auto;
+}
+
+h1,
+h2,
+h3,
+h4 {
+	font-family: fantasy;
+}
+
+.btn-default3 {
+	padding: 0px 20px;
+	color: white;
+	background-color: dodgerblue;
+	border-radius: 0px;
+}
+
+.btn-default3:hover {
+	background-color: #fff;
+}
+
+.btn-default4 {
+	background-color: lightgray;
+	color: white;
+}
+
+.btn-default4:hover {
+	background-color: #fff;
+	;
+
+}
+
+.left > ul > li {
+	list-style: none;
+}
+
+.fa-location-arrow {
+	color: black;
+	padding: 5px;
+}
+
+.fa-phone {
+	color: black;
+	padding: 5px;
+}
+
+.fa-comment {
+	color: black;
+	padding: 5px;
+}
+
+
+.fa-globe {
+	color: black;
+	padding: 5px;
+}
+
+.form-control {
+	border-radius: 0px;
+}
+
+.disturb > .form-control {
+	padding: 50px 50px;
+}
+
+.btn-lg {
+	background-color: dodgerblue;
+	color: white;
+	border-radius: 0px;
+	font-size: 16px;
+	float: right;
+}
+
+.btn-lg:hover {
+	background-color: #fff;
+	transition: .2s linear;
+}
+
+.btn-outline-secondary {
+	padding: 6px 25px;
+	background-color: black;
+	color: white;
+	border-radius: 0px;
+}
+
+.btn-outline-secondary:hover {
+	background-color: lightgray;
+}
+
+.second {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.upfooter {
+	background-color: #F4F4F4;
+	height: 197px;
+
+}
+
+
+.footer > ul > a > li {
+	list-style: none;
+}
+
+.footer > ul > a {
+	color: black;
+}
+
+.footer > ul > a:hover {
+	color: lightseagreen;
+	text-decoration: none;
+}
+.footer {margin-top: 10px;}
+
+
+.fab,
+.fa {
+	padding: 5px;
+}
+
+.fa-facebook-f:hover {
+	color: lightseagreen;
+}
+
+.fa-facebook-f {
+	color: black;
+}
+
+.fa-twitter:hover {
+	color: lightseagreen;
+}
+
+.fa-twitter {
+	color: black;
+}
+
+.fa-instagram:hover {
+	color: lightseagreen;
+}
+
+.fa-instagram {
+	color: black;
+}
+
+.fa-linkedin-in:hover {
+	color: lightseagreen;
+}
+
+.fa-linkedin-in {
+	color: black;
+}
+
+.down {
+	float: right;
+}
+
+
+.left2 {
+	float: left;
+	margin-right: 3px;
+	display: inline-block;
+}
+
+.downfooter {
+	border-top: 1px solid gray;
+	border-bottom: 1px solid gray;
+	padding-top: 10px;
+	margin: auto;
+}
